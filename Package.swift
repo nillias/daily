@@ -5,7 +5,9 @@ import PackageDescription
 
 let package = Package(
     name: "Agenda",
+    platforms: [.macOS(.v10_12)],
     dependencies: [
+        .package(url: "https://github.com/QiuZhiFei/swift-commands.git", .upToNextMajor(from: "0.6.0")),
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
     ],
@@ -14,7 +16,9 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .executableTarget(
             name: "Agenda",
-            dependencies: []),
+            dependencies: [
+                .product(name: "Commands", package: "swift-commands")
+            ]),
         .testTarget(
             name: "AgendaTests",
             dependencies: ["Agenda"]),
