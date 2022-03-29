@@ -24,7 +24,7 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 ## Descrição do projeto 
 
 <p align="justify">
-📌 Inspire: progama de organização de reuniões diárias; <br>
+📌 daily: progama de organização de reuniões diárias; <br>
 📌 Como funciona: A pessoa registra suas reuniões fixas da semana e posteriormente 
   pode consultar elas e inserir ou deletar outras reuniões
 </p>
@@ -72,8 +72,8 @@ O binário vai estar em release, entre para acessar.
 
 Liste o time responsável pelo desenvolvimento do projeto
 
-| [<img src="https://avatars.githubusercontent.com/u/63982257?v=4" width=115><br><sub>Sarah Madalena</sub>](https://github.com/nillias) |  [<img src="https://avatars.githubusercontent.com/u/48629647?v=4" width=115><br><sub>Joan Wilson</sub>](https://github.com/JoanWilson) |
-| :---: | :---: | :---: 
+[<img src="https://avatars.githubusercontent.com/u/63982257?v=4" width=115><br><sub>Nillia Sousa</sub>](https://github.com/nillias)
+  
 
 ## Licença 
 
