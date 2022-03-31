@@ -1,4 +1,8 @@
-<h1>daily</h1> 
+  <p align="center"> <img src="https://user-images.githubusercontent.com/63982257/161052029-dd206058-62a3-4369-b0b3-3682a252fd1b.png" width=200/>
+</p>
+
+<p aligh= "center"> <h1>daily</h1> </p>
+  
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=Swift&message=5.4&color=red&style=for-the-badge&logo=swift"/>
@@ -17,7 +21,7 @@
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
-... 
+
 
 <!-- Insira os tópicos do README em links para facilitar a navegação do leitor -->
 
