@@ -4,7 +4,7 @@
   <img src="http://img.shields.io/static/v1?label=Swift&message=5.4&color=red&style=for-the-badge&logo=swift"/>
 </p>
 
-> Status do Projeto: :heavy_check_mark: 
+> Status do Projeto: Em pausa ⏸ 
 ### Tópicos 
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
@@ -19,7 +19,7 @@
 
 ... 
 
-Insira os tópicos do README em links para facilitar a navegação do leitor
+<!-- Insira os tópicos do README em links para facilitar a navegação do leitor -->
 
 ## Descrição do projeto 
 
@@ -70,7 +70,6 @@ O binário vai estar em release, entre para acessar.
 
 ## Desenvolvedores/Contribuintes :octocat:
 
-Liste o time responsável pelo desenvolvimento do projeto
 
 [<img src="https://avatars.githubusercontent.com/u/63982257?v=4" width=115><br><sub>Nillia Sousa</sub>](https://github.com/nillias)
   
