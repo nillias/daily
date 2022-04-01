@@ -4,7 +4,7 @@
 <p aligh= "center"> <h1>daily</h1> </p>
   
 
-<p align="center">
+<p align="right">
   <img src="http://img.shields.io/static/v1?label=Swift&message=5.4&color=red&style=for-the-badge&logo=swift"/>
 </p>
 
