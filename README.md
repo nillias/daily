@@ -8,7 +8,8 @@
   <img src="http://img.shields.io/static/v1?label=Swift&message=5.4&color=red&style=for-the-badge&logo=swift"/>
 </p>
 
-> Status do Projeto: Em pausa ⏸ 
+> Status do Projeto: Em construção
+
 ### Tópicos 
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
